@@ -25,17 +25,20 @@ A defensive security tool for automating phishing alert investigations while mai
 # Clone/navigate to project directory
 cd phishing_alert_automation
 
+# Create virtual environment (Command Prompt)
+python -m venv venv
+
+# Activate virtual environment
+venv\Scripts\activate
+
 # Install dependencies
 pip install -r requirements.txt
-
-# Copy environment template
-cp .env.template .env
-
-# Edit .env with your credentials
-nano .env
 ```
 
 ### 2. Configure .env File
+
+- Copy env_template.md to a file called .env
+- Adjust Fresh Service API Key and Domain to point to your details
 
 ```env
 FRESHSERVICE_API_KEY=your_api_key_here
