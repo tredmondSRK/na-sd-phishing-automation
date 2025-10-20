@@ -43,6 +43,7 @@ pip install -r requirements.txt
 ```env
 FRESHSERVICE_API_KEY=your_api_key_here
 FRESHSERVICE_DOMAIN=your_company.freshservice.com
+MICROSOFT_USER_EMAIL=Enter your mail trace permission email here
 LOG_LEVEL=INFO
 REPORTS_DIR=./reports
 LOGS_DIR=./logs
