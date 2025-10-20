@@ -1,0 +1,26 @@
+================================================================================
+SECURITY WARNING: PARSED PHISHING EMAIL DATA
+================================================================================
+This file contains parsed data from a suspected phishing email.
+The original .eml file has been DELETED for security.
+Attachments listed below were NOT extracted or downloaded.
+================================================================================
+
+PARSED EMAIL DATA
+=================
+
+From: coertzenm@fsworks.gov.za
+To: nchammas@srk.com
+Subject: BBXS8AJ
+Date: 2025-10-15 09:57:51
+Message-ID: <9827280cdbcd40688d4c1d0303c1ac38@fsworks.gov.za>
+
+Attachments Found (NOT EXTRACTED FOR SECURITY):
+Total: 1
+WARNING: The following attachments were detected but NOT downloaded:
+  - SSR-D633 (2).pdf (application/pdf) [665992 bytes]
+
+Security Indicators:
+  Suspicious keywords: free
+  External links: Yes
+  Suspicious headers: No
