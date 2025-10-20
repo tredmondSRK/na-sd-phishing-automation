@@ -1,4 +1,0 @@
-MAIL TRACE SUMMARY
-==================
-
-The sender "coertzenm@fsworks.gov.za" has sent 6 total emails to 6 unique recipients
